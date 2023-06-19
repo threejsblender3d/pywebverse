@@ -1,0 +1,66 @@
+{
+    "version": 1,
+    "terrain": {
+        "url": "./assets/terrains/wall3.glb",
+        "portalMap": {
+            "0": "./configs/devPlanet.json"
+        } 
+    },
+    "terrain1": {
+        "url": "./assets/terrains/building/1.glb"
+
+    },
+    "terrain2": {
+        "url": "./assets/terrains/building/2.glb"
+
+    },
+    "terrain3": {
+        "url": "./assets/terrains/building/3.glb"
+
+    },
+    "terrain4": {
+        "url": "./assets/terrains/building/4.glb"
+
+    },
+    "terrain5": {
+        "url": "./assets/terrains/building/5.glb"
+
+    },
+    "terrain6": {
+        "url": "./assets/terrains/building/6.glb"
+
+    },
+    "terrain7": {
+        "url": "./assets/terrains/building/7.glb"
+
+    },
+    "terrain8": {
+        "url": "./assets/terrains/building/8.glb"
+
+    },
+    "terrain9": {
+        "url": "./assets/terrains/building/9.glb"
+
+    },
+   
+    "terrain10": {
+        "url": "./assets/terrains/building/helicopter3.glb"
+
+    },
+    "terrain11": {
+        "url": "./assets/terrains/building/helicopter2.glb"
+
+    },
+    "terrain12": {
+        "url": "./assets/terrains/building/bird.glb"
+
+    },
+    "terrain13": {
+        "url": "./assets/terrains/building/txt.glb"
+
+    },
+    "terrain14": {
+        "url": "./assets/terrains/building/duck.glb"
+
+    }
+}
