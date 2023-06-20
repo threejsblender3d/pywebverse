@@ -910,3 +910,21 @@ div.emoji_1:after, div.emoji_2:after,div.emoji_3:after,div.emoji_4:after,div.emo
     line-height: 100px;
     display: none;
 }
+@media only screen and (max-width: 767px) {
+    .WorldUI {
+        top: auto;
+        left: 0;
+        bottom:70px;
+        width: 100%;
+    }
+    .WorldChat_list {
+        display: none;
+    }
+    .chat {
+        display: none;
+    }
+    #backToMenu {
+        display: none;
+    }
+
+}
