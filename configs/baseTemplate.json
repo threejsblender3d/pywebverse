@@ -62,5 +62,9 @@
     "terrain14": {
         "url": "./assets/terrains/building/duck.glb"
 
+    },
+    "terrain15": {
+        "url": "./assets/terrains/fireworks.glb"
+
     }
 }
